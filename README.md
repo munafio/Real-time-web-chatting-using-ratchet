@@ -1,8 +1,8 @@
 # Real-time-web-chatting-using-ratchet
 simple web chat application built with ratchet php library with simple ui design 
 
-h3>Demo on youtube (How to use it) :</h3>
-<a href="https://www.youtube.com/watch?v=G4He3M6eN5w">YouTube video</a><br/>
+<h3>Demo on youtube (How to use it) :</h3>
+<a href="https://www.youtube.com/watch?v=G4He3M6eN5w">YouTube video</a>
 
 <h3>Social links if you want more projects or to contact with me :</h3>
 <a href="http://www.facebook.com/munafaqeelmahdi.official">Facebook : Official page</a><br />
